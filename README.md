@@ -3,20 +3,17 @@ GBA.js Modern
 This is a modernized version of GBA.js, combining the improvements made through [gbajs2](https://github.com/andychase/gbajs2?tab=readme-ov-file), [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS), and others, all while keeping the ability to deploy through GitHub pages. **This is a student's project**, and may contian significant errors or extremely slow improvements. Contribs are highly encouraged.
 
 ## Game Compatibility
-For the gbajs2 engine, a compatability list can be found [here](https://github.com/andychase/gbajs2/wiki/Compatibility-List).
+For the gbajs engine, a compatability list can be found [here](https://github.com/endrift/gbajs/wiki/Compatibility-List)
+For the yet-to-be-implemented gbajs2 engine, a compatability list can be found [here](https://github.com/andychase/gbajs2/wiki/Compatibility-List).
 For the yet-to-be-implemented EmulatorJS RetroArch engine, a compatability list can be found [here](https://docs.libretro.com/library/compatibility/gba/).
 
 ## Feature List
-Currently, only the gbajs2 engine is implemented, with the following features:
+Currently, only the gbajs engine is implemented, with the following features:
 
 * Downloadable and uploadable savegames
 * Screenshots
 * Pausing the emulation
 * Support for gamepaks that contain a realtime clock (e.g. Pokemon Ruby and Sapphire)
-* Savestates
-* Gamepad support
-* Link cable over Web Sockets
-* Cheat code support
 
 ## License
 Copyright © 2012 – 2013, Jeffrey Pfau
